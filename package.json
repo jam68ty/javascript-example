@@ -1,0 +1,26 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "test for javascript project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jam68ty/javascript-example.git"
+  },
+  "author": "jam68ty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jam68ty/javascript-example/issues"
+  },
+  "homepage": "https://github.com/jam68ty/javascript-example#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^7.29.0",
+    "eslint-config-google": "^0.14.0"
+  }
+}
